@@ -67,3 +67,13 @@ Contributions to this project are welcome and encouraged. If you want to contrib
 We would like to thank all the contributors and open-source projects that made this Sorting Visualizer possible. Your dedication and effort are greatly appreciated.
 
 Happy Sorting!
+##
+- Array before sorting.
+- ![Screenshot 2023-08-05 232945](https://github.com/Venkateeshh/Sorting-Visualizer/assets/117290841/5c303a3c-2ecc-49f5-aa3e-0ae59ce1b8e8)
+
+- Array while sorting.
+- ![Screenshot 2023-08-05 233116](https://github.com/Venkateeshh/Sorting-Visualizer/assets/117290841/b8af522d-31ae-4bdd-8718-4ff40aa609af)
+
+- Sorted Array.
+- ![Screenshot 2023-08-05 233157](https://github.com/Venkateeshh/Sorting-Visualizer/assets/117290841/9dd1c72c-de88-46ac-aa85-4665a3c4e3e1)
+
